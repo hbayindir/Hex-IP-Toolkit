@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# coding=UTF-8
+# -*- coding=UTF-8 -*-
 
 ###########################################################################
 # Hex IP Toolkit: Converts IP addresses to hexadecimal and vice versa.    #
